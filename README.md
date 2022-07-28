@@ -1,6 +1,6 @@
 # Tumor-Biochemical-Heterogeneity-and-Oncology-Network-Breakdown-Zone-Model
 
-We present the two models (k-shell) and (k-sorted) we have described in the paper.
+We present the two models (k-sorted) and (k-shell) we have described in the paper.
 To run each file, provide the seed of the realization. For example run: 
 
 python3 kShells.py (seedNumber)
