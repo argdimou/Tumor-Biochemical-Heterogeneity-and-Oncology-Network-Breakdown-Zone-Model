@@ -3,7 +3,7 @@
 We present the two models (k-shell) and (k-sorted) we have described in the paper.
 To run each file, provide the seed of the realization. For example run: 
 
-python3 kShells.py <seedNumber>
+python3 kShells.py (seedNumber)
   
 the saved files will have the seed in their name.
   
